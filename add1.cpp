@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std
+using namespace std;
 int main() {
     int Q1, P1, Q2, P2, A, Price_min = 0, Price = 0;
     std::cin >> Q1 >> P1 >> Q2 >> P2 >> A;
